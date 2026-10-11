@@ -8,14 +8,14 @@ The goal is to make solar panel monitoring more accessible by bringing visual in
  Key Features:
 
 AI-Powered Inspection: Upload a solar panel image and generate an AI-assisted inspection report.
-Electrical Performance Monitoring: Enter voltage, current, rated power, and irradiance measurements to support performance assessment.
-Power Calculation:Calculate electrical output power using voltage and current measurements.
-Maintenance Recommendations:Generate AI-assisted suggestions based on the inspection and available measurements.
-Voice Interaction:Support voice input for a more accessible inspection workflow.
-Report Generation:Produce readable inspection reports that can be downloaded for reference.
-AI Follow-Up Chat:Ask additional questions about inspection findings and recommendations.
-Text-to-Speech: Optionally narrate generated reports using ElevenLabs.
-Web-Based Interface:Access the application through a browser using Streamlit.
+Electrical Performance Monitoring:  Enter voltage, current, rated power, and irradiance measurements to support performance assessment.
+Power Calculation: Calculate electrical output power using voltage and current measurements.
+Maintenance Recommendations:  Generate AI-assisted suggestions based on the inspection and available measurements.
+Voice Interaction:  Support voice input for a more accessible inspection workflow.
+Report Generation:  Produce readable inspection reports that can be downloaded for reference.
+AI Follow-Up Chat:  Ask additional questions about inspection findings and recommendations.
+Text-to-Speech:  Optionally narrate generated reports using ElevenLabs.
+Web-Based Interface:  Access the application through a browser using Streamlit.
 
 How It Works:
 
