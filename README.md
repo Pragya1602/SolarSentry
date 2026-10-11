@@ -1,4 +1,4 @@
-                                                                           SolarSentry
+                                                              SolarSentry
 AI-Powered Solar Panel Inspection & Maintenance Assistant
 
 SolarSentry is an AI-powered application designed to help users inspect solar panels, interpret operational measurements, identify potential issues, and generate actionable maintenance recommendations using image analysis and conversational AI.
